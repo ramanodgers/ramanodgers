@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, this is Raman Odgers
+
+I am a CS masters student at Columbia University, focusing on ML and AI. I recently graduated from the University of Chicago where I studied Economics, Physics and Computer Science. I've worked in quantum computing, deep tech and venture capital, but I am now focused on *applying bespoke AI technology to narrow domain problems, as well as AGI capability research*
+
+This is a new github account with recommits of old projects. It is a work in progress.
+
+ε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘
+
+
 
 <!--
 **ramanodgers/ramanodgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
