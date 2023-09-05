@@ -4,8 +4,6 @@ I am a CS Masters student at Columbia University, focusing on ML and AI. I recen
 
 This new github account is a work in progress to centralise projects new and old.
 
-ε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘
-
 
 
 <!--
