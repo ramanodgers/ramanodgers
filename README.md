@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Raman Odgers
 
-I am a CS Masters student at Columbia University, focusing on ML and AI. I recently graduated with a BA from the University of Chicago where I studied Economics, Physics and Computer Science. I've worked in quantum computing, deep tech and venture capital, but I am now focused on *applying AI technology to narrow domain problems, as well as AGI capability research.*
+I am a CS Masters student at Columbia University, focusing on ML and AI. I recently graduated with a BA from the University of Chicago where I studied Economics, Physics and Computer Science. I've worked in quantum computing, deep tech, venture capital and applied ML. 
 
 This new github account is a work in progress to centralise projects new and old.
 
